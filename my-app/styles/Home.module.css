@@ -5,6 +5,8 @@
   justify-content: center;
   align-items: center;
   font-family: "Courier New", Courier, monospace;
+  background-color: #012;
+  color: white;
 }
 
 .footer {
@@ -13,6 +15,8 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  background-color: #012;
+  color: white;
 }
 
 .image {
@@ -43,7 +47,7 @@
 
 .button {
   border-radius: 4px;
-  background-color: blue;
+  background-color: teal;
   border: none;
   color: #ffffff;
   font-size: 15px;
